@@ -200,10 +200,10 @@ int main()
 ## Ý tưởng
 * Sử dụng câu lệnh if,else 
 * Kết hợp với tính chất cosin của tam giác để xác định các trường hợp của tam giác 
- 1. Nếu giá trị cosin của 3 góc bằng nhau => Tam giác đều 
- 2. Tồn tại 1 giá trị cosin bằng 0 => Tam giác vuông 
- 3. Các giá trị cosin đều lớn hơn 0 => Tam giác nhọn
- 4. Có 1 giá trị cosin nhỏ hơn 0 => Tam giác tù 
+  - Nếu giá trị cosin của 3 góc bằng nhau => Tam giác đều 
+  - Tồn tại 1 giá trị cosin bằng 0 => Tam giác vuông 
+  - Các giá trị cosin đều lớn hơn 0 => Tam giác nhọn
+  - Có 1 giá trị cosin nhỏ hơn 0 => Tam giác tù 
  ## Lưu đồ thuật toán
  ![bai 8](https://user-images.githubusercontent.com/93105703/139917992-a954aeb7-b242-4cb6-ac10-df56d5b5880a.png)
  ## Code 
